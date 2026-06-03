@@ -46,7 +46,20 @@ This project aimed to improve mobility for individuals with motor impairments by
   </div>
 </div>
 <div class="caption">
-  BCI-controlled wheelchair prototype performing obstacle avoidance (when detecting my hand) during live EEG testing.
+  BCI-controlled wheelchair performing obstacle avoidance (when detecting my hand and a nearby pole) during live EEG testing.
 </div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    <video width="100%" autoplay loop muted playsinline class="img-fluid rounded z-depth-1">
+      <source src="{{ '/assets/video/bci-moving.mov' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+<div class="caption">
+  BCI-controlled wheelchair moving during live EEG testing. A 20% confirmation accuracy was experimentally determined over the course of this testing phase. Overall, the prototype is not safe for medical use, but it proves that it is possible to translate visually-evoked potentials to mechanical motion. 
+</div>
+---
 ---
 [View the Source Code and Documentation on GitHub](https://github.com/elinaxiv/mindcontrolledwheelchair)
