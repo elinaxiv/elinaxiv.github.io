@@ -2,7 +2,7 @@
 layout: page
 title: The Mentzel Group
 description: Investigating transport phenomena in 2D Quantum Materials
-img: assets/img/projects_placeholder.jpg
+img: assets/img/quantum1.jpg
 importance: 1
 category: work
 ---
