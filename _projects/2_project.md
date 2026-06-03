@@ -8,6 +8,12 @@ category: work
 giscus_comments: true
 ---
 
+**Project Role:** Undergraduate Researcher 
+**Timeline:** January 2026 – Present  
+**Status:** Data Analysis Phase
+
+## Overview
+This project aimed to improve mobility for individuals with motor impairments by developing a brain-computer interface (BCI) capable of translating neural activity into mechanical control for a motorized wheelchair.
 ## Overview
 This research focused on analyzing hemodynamic changes in intracranial aneurysms treated with flow diverter stents. By utilizing high-fidelity CFD simulations, the project aimed to quantify how stent geometry and porosity affect wall shear stress (WSS) and intra-aneurysmal flow velocity, directly impacting clinical outcomes for aneurysm thrombosis.
 
