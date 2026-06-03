@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechanical Engineering Student at UC Riverside
+subtitle: About me
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of California, Riverside</p>
+    <p>UC Riverside</p>
     <p>Riverside, CA</p>
 
 selected_papers: false
@@ -27,7 +27,7 @@ latest_posts:
 
 ## Hi, I'm Eli
 
-I am a Mechanical Engineering student at the University of California, Riverside, interested in nanofabrication, quantum devices/computing, and biomedical engineering.
+I am a Mechanical Engineering student at the University of California, Riverside, interested in nanofabrication, quantum computing, and biomedical engineering.
 
 My work explores engineering at two distinct scales:
 
