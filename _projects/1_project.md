@@ -8,8 +8,6 @@ category: work
 related_publications: true
 ---
 
-Editing
-
 **Project Role:** Undergraduate Researcher 
 **Timeline:** January 2026 – Present  
 **Status:** Continuing Data Analysis Phase
