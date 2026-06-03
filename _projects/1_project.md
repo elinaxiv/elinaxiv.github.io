@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Biomedical Microdevices Laboratory (BML)
-description: CFD characterization for the lab's proprietary intra-aneurysmal flow-diverter stent
+title: Biomedical Microdevices Laboratory
+description: CFD studies for the lab's proprietary intra-aneurysmal flow-diverter stent
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-**Project Role:** Undergraduate Researcher
+**Project Role:** Undergraduate Researcher  
 **Timeline:** January 2026 – Present  
 **Status:** Continuing Data Analysis Phase
 
