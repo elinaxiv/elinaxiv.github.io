@@ -9,7 +9,7 @@ category: work
 
 **Project Role:** Lead Developer & Systems Integrator  
 **Timeline:** January 2026 – June 2026  
-**Status:** Functional Prototype / Data Validation Phase
+**Status:** Completed Functional Prototype
 
 ## Overview
 This project aimed to improve mobility for individuals with motor impairments by developing a brain-computer interface (BCI) capable of translating neural activity into mechanical control for a motorized wheelchair.
@@ -61,5 +61,17 @@ This project aimed to improve mobility for individuals with motor impairments by
   BCI-controlled wheelchair moving during live EEG testing. A 20% confirmation accuracy was experimentally determined over the course of this testing phase. Overall, the prototype is not safe for medical use, but it proves that it is possible to translate visually-evoked potentials to mechanical motion. 
 </div>
 ---
+## Project Poster
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="{{ '/assets/pdf/bci-poster.pdf' | relative_url }}" target="_blank">
+      {% include figure.liquid path="assets/img/bci-poster-preview.jpg" title="BCI Wheelchair Research Poster" class="img-fluid rounded z-depth-1" %}
+    </a>
+  </div>
+</div>
+<div class="caption">
+  Click the poster above to view the full-size PDF.
+</div>
 ---
 [View the Source Code and Documentation on GitHub](https://github.com/elinaxiv/mindcontrolledwheelchair)
