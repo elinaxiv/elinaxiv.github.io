@@ -1,9 +1,9 @@
 ---
 layout: page
 title: The Mentzel Group
-description: Transport-Kinetic Modeling for 2D Quantum Materials
+description: Investigating transport phenomena in 2D Quantum Materials
 img: assets/img/projects_placeholder.jpg
-importance: 3
+importance: 1
 category: work
 ---
 
