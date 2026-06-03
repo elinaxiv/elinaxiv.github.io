@@ -1,13 +1,13 @@
 ---
-layout: distill
-title: Quantum Materials Research
-description: Transport-Kinetic Modeling for 2D Quantum Materials (ZrTe₃)
+layout: page
+title: The Mentzel Group
+description: Transport-Kinetic Modeling for 2D Quantum Materials
 img: assets/img/projects_placeholder.jpg
 importance: 3
-category: research
+category: work
 ---
 
-**Project Role:** Undergraduate Researcher, The Mentzel Group  
+**Project Role:** Undergraduate Researcherp  
 **Timeline:** April 2026 – Present  
 **Status:** In-Development (Drafting Research Paper)
 
