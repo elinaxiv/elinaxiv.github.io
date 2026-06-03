@@ -65,7 +65,7 @@ This project aimed to improve mobility for individuals with motor impairments by
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ '/assets/pdf/bci-poster' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/pdf/bci-poster.pdf' | relative_url }}" target="_blank">
       {% include figure.liquid path="assets/img/bci-poster-preview.jpg" title="BCI Wheelchair Project Poster" class="img-fluid rounded z-depth-1" %}
     </a>
   </div>
