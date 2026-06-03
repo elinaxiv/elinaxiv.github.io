@@ -7,9 +7,9 @@ importance: 1
 category: work
 ---
 
-**Project Role:** Undergraduate Researcherp  
+**Project Role:** Undergraduate Researcher  
 **Timeline:** April 2026 – Present  
-**Status:** In-Development (Drafting Research Paper)
+**Status:** In Development (Drafting Research Paper)
 
 ## Overview
 
