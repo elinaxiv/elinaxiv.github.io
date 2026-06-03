@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Brain-Controlled Wheelchair
-description: BCI-Controlled Wheelchair utilizing OpenBCI EEG hardware
-img: assets/img/projects_placeholder.jpg
+description: BCI-Controlled Wheelchair utilizing OpenBCI EEG hardware and MindAffect stimulus software
+img: assets/img/bciwheelchair1.jpg
 importance: 1
 category: work
 ---
