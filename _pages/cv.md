@@ -40,7 +40,7 @@ toc:
 * Developing kinetic rate equation models for oxidation kinetics in chalcogenide materials
 
 ### NASA L'SPACE Program 
-**Lead Systems Engineer** | May 2025 – August 2025 
+**Lead Systems Engineer** | May 2025 – August 2025  
 **Project:** Triangulated Astrophysical Localization via Orbiting Neutron Stars (TALON)
 * **System Leadership:** Spearheaded the TALON project as Lead System Engineer, optimizing deep space autonomous navigation for small-satellite (CubeSat) deployment
 * **Design Innovation:** Led the architectural shift to make the navigation system Earth-independent, enabling real-time onboard operation using low size, weight, and power (low-SWaP) hardware
