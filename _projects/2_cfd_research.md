@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: distill
 title: Computational Fluid Dynamics (CFD): Flow Diverter Stents  
 description: Creating simulations of bifurcating artery structures and characterizing the lab's proprietary flow diverter device
 img: assets/img/projects_placeholder.jpg
