@@ -1,12 +1,17 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
+description: Comprehensive curriculum vitae and professional experience
 nav: true
 nav_order: 4
-description: Comprehensive curriculum vitae and professional experience
 toc:
   sidebar: left
+---
+
+## Eli Naval
+**Mechanical Engineering Student** | University of California, Riverside
+
 ---
 
 ## Education
