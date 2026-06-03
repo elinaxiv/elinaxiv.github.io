@@ -10,70 +10,30 @@ related_publications: true
 
 Editing
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Project Role:** Undergraduate Researcher 
+**Timeline:** January 2026 – Present  
+**Status:** Continuing Data Analysis Phase
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Overview
+This research focused on analyzing hemodynamic changes in intracranial aneurysms treated with flow diverter stents. By utilizing high-fidelity CFD simulations, the project aimed to quantify how stent geometry and porosity affect wall shear stress (WSS) and intra-aneurysmal flow velocity, directly impacting clinical outcomes for aneurysm thrombosis.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Technical Stack
+*   **Simulation Software:** ANSYS Fluent, SolidWorks
+*   **Methodology:** Finite Volume Method (FVM) for Navier-Stokes equations
+*   **Analysis:** Mesh Independence Studies using Excel/Sheets
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Key Engineering Challenges
+1.  **Mesh Sensitivity:** Achieving computational convergence in complex, patient-specific vascular geometries. Developed iterative mesh refinement strategies to balance simulation accuracy with computational cost.
+2.  **Boundary Condition Modeling:** Translating physiological blood flow data into realistic pulsatile velocity inlet conditions to mimic real-world hemodynamics.
+3.  **Quantitative Validation:** Comparing simulation data against established clinical benchmarks to ensure the model’s reliability for potential pre-surgical planning.
+4.  **Solid Modeling:** Microscale defects when deforming the stent to fit the arterial geometries caused many iterations of unsuccessful meshing. Only through rigorous checking of each mate allowed for this problem to be resolved.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Outcome
+The study is in the process of characterizing the relationship between stent deployment configurations and resultant hemodynamic parameters. As of now, the findings provide a quantitative basis for optimizing stent porosity, potentially reducing the risk of aneurysm rupture and improving long-term vessel healing.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Images (insert later)
+1.  **The Mesh Image:** Show a zoomed-in shot of your mesh (e.g., tetrahedral or hexahedral cells). It proves you know how the simulation is built.
+2.  **The Contour Plot:** A velocity or pressure contour plot. This is the "money shot"—it shows the final result of your work.
+3.  **The Validation Graph:** A simple line graph showing your Mesh Independence study (e.g., Grid Size vs. Convergence Parameter). This highlights your rigor as a researcher.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+---
