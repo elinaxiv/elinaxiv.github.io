@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: About me
+subtitle: 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>UC Riverside</p>
+    <p>UC Riverside</p>  
     <p>Riverside, CA</p>
 
 selected_papers: false
