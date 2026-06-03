@@ -36,5 +36,17 @@ This project aimed to improve mobility for individuals with motor impairments by
 3. MindAffect stimulus interface
 4. Electrical schematics
 
+## Demonstrations
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    <video width="100%" autoplay loop muted playsinline class="img-fluid rounded z-depth-1">
+      <source src="{{ '/assets/video/bci-stop.mov' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+<div class="caption">
+  BCI-controlled wheelchair prototype performing obstacle avoidance (when detecting my hand) during live EEG testing.
+</div>
 ---
 [View the Source Code and Documentation on GitHub](https://github.com/elinaxiv/mindcontrolledwheelchair)
