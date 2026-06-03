@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biomedical Microdevices Laboratory (BML)
-description: Computational Fluid Dynamics (CFD) characterization for the BML's proprietary flow diverter stent, used to promote clotting within aneurysms
+description: CFD characterization for the lab's proprietary intra-aneurysmal flow-diverter stent
 img: assets/img/12.jpg
 importance: 1
 category: work
